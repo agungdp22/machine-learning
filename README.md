@@ -9,5 +9,4 @@ Dalam repository ini berisi contoh algoritma untuk machine learning dalam bahasa
 git clone https://github.com/agungdp22/machine-learning.git
 ```
 
-- Agung Dwi Prasetyo
-- Computer Science IPB
+Agung Dwi Prasetyo, Computer Science IPB
